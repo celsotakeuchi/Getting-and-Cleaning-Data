@@ -1,3 +1,4 @@
+library(dplyr)
 
 # 1. Read files
 train_data <- read.table("train/X_train.txt", header = FALSE)
