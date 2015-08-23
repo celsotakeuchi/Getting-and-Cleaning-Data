@@ -1,6 +1,7 @@
-Getting and Cleaning Data project - Code Book
+#Getting and Cleaning Data project - Code Book#
 
-Analysis Process
+###Analysis Process###
+
 1. Understanding the data and putting informations into a single file
 Read informations from the X_test.txt and X_train.txt files and then merge them.
 Read informations from y_test.txt and t_train.txt files and then merge them.
@@ -21,7 +22,7 @@ By subject and activity, the code creates a mean of all variables and stores the
 
 7. Create an output file
 
-Columns output file
+###Columns output file###
 
 Subject - the participant's identification
 Activity - the 6 activities used in the experiment. To further information, please see the file activity_labels.txt into the data experiment.
